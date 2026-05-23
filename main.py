@@ -30,7 +30,7 @@ PROMO_TEXT = (
 "🛡️ Praktis & mudah digunakan\n"
 "⏰ Admin standby 7/24 jam\n\n"
 "🚀 **Order langsung via bot**\n"
-"👉 @GlobalOTPhubBot"
+"👉 @farinshop_bot"
 )
 
 status_msg_id = None
